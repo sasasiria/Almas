@@ -125,7 +125,6 @@ async def help(client: Client, message: Message):
          [
             [
                 InlineKeyboardButton("‹ مطور السورس ›", url=f"https://t.me/BK_ZT"),
-                ),
             ],
             [
                 InlineKeyboardButton("➕ ضيف البوت لجروبك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
